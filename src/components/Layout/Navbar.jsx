@@ -201,12 +201,6 @@ function Navbar() {
                       </NavLink>
                     </li>
 
-                    <li className="nav-item">
-                      <NavLink to={"/home-two"} className="nav-link">
-                        *** Hot Deals ***
-                      </NavLink>
-                    </li>
-
                     {/* <li className="nav-item">
                       <NavLink to={"/home-three"} className="nav-link">
                         Home Three

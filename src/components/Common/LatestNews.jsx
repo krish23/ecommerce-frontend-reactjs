@@ -23,11 +23,11 @@ function LatestNews({ paddingClass = "" }) {
                 <span>eCommerce</span>
                 <h3>
                   <a href="/blog-details">
-                    The Factory is Making its Own Mobile Chipset
+                    We have added more items in our inventory
                   </a>
                 </h3>
                 <div className="post-meta">
-                  <a href="#">Admin</a> / 20 October 2020
+                  <a href="#">Admin</a> / 20 October 2022
                 </div>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -49,11 +49,11 @@ function LatestNews({ paddingClass = "" }) {
                 <span>eCommerce</span>
                 <h3>
                   <a href="/blog-details">
-                    Minimal Design Inspiration Hand Watch
+                    Christmas Sales Coming!!!
                   </a>
                 </h3>
                 <div className="post-meta">
-                  <a href="#">Admin</a> / 19 October 2020
+                  <a href="#">Admin</a> / 19 November 2022
                 </div>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -75,11 +75,11 @@ function LatestNews({ paddingClass = "" }) {
                 <span>eCommerce</span>
                 <h3>
                   <a href="/blog-details">
-                    You Can See the Electronic Products in the Showroom
+                    Visit our Store and Win Prizes!!!
                   </a>
                 </h3>
                 <div className="post-meta">
-                  <a href="#">Admin</a> / 18 October 2020
+                  <a href="#">Admin</a> / 03 December 2022
                 </div>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed

@@ -51,8 +51,8 @@
     ]
   },
   "engines": {
-    "node":"v14.21.1",
-    "npm":"6.14.17"
+    "node": "v14.21.1",
+    "npm": "6.14.17"
   },
   "devDependencies": {
     "prettier": "^2.2.1"

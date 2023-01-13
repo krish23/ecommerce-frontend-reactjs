@@ -1,6 +1,6 @@
-import arrivalsProducts1 from "../../assets/img/arrivalsproducts/arrivalsproducts1.jpg";
-import arrivalsProducts2 from "../../assets/img/arrivalsproducts/arrivalsproducts2.jpg";
-import arrivalsProducts3 from "../../assets/img/arrivalsproducts/arrivalsproducts3.jpg";
+import arrivalsProducts1 from "../../assets/img/arrivalsproducts/image1.jpg";
+import arrivalsProducts2 from "../../assets/img/arrivalsproducts/image2.jpg";
+import arrivalsProducts3 from "../../assets/img/arrivalsproducts/image3.jpg";
 import { Link } from "react-router-dom";
 
 function CompareArea() {

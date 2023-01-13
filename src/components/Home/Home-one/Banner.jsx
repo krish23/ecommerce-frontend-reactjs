@@ -29,7 +29,7 @@ const Banner = () => {
                 <div className="col-lg-6">
                   <div className="main-slider-content">
                     <b>Big Sale Offer</b>
-                    <h1>The Drone has an Attractive Gift Free</h1>
+                    <h1>The new Samsung Ultra is here!</h1>
                     <p>
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                       sed do eiusmod tempor incididunt ut labore et dolore magna
@@ -48,7 +48,7 @@ const Banner = () => {
 
                 <div className="col-lg-6">
                   <div className="main-slider-image">
-                    <img src={drone} alt="image" />
+                    <img src={headphone} alt="image" />
                   </div>
                 </div>
               </div>
