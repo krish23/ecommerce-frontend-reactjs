@@ -324,7 +324,7 @@ function CheckoutArea() {
                               parseInt(curItem.price) *
                                 parseInt(curItem.quantity || 0)
                             );
-                          }, 0) + 00}
+                          }, 0)}
                       </span>
                     </li>
                     <li>
@@ -338,7 +338,7 @@ function CheckoutArea() {
                               parseInt(curItem.price) *
                                 parseInt(curItem.quantity || 0)
                             );
-                          }, 0) + 00}
+                          }, 0)}
                       </span>
                     </li>
                   </ul>
