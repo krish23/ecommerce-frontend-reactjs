@@ -175,7 +175,7 @@ function CartArea() {
                   </span>
                 </li>
                 <li>
-                  Shipping <span>Rs7200.00</span>
+                  Shipping <span>Rs0.00</span>
                 </li>
                 <li>
                   Total{" "}
@@ -189,7 +189,7 @@ function CartArea() {
                             parseInt(curItem.quantity || 0)
                         );
                       }, 0)) ||
-                      0) + 30}
+                      0) + 0}
                   </span>
                 </li>
                 <li>
@@ -204,7 +204,7 @@ function CartArea() {
                             parseInt(curItem.quantity || 0)
                         );
                       }, 0)) ||
-                      0) + 30}
+                      0) + 0}
                   </span>
                 </li>
               </ul>
