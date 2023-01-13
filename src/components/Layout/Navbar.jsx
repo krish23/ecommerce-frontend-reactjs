@@ -217,7 +217,7 @@ function Navbar() {
 
                 <li className="nav-item megamenu">
                   <NavLink
-                    to="/about"
+                    to="/faqs"
                     isActive={() => pagesRoutes.includes(pathname)}
                     className="nav-link"
                   >
