@@ -311,7 +311,7 @@ function CheckoutArea() {
                       </span>
                     </li>
                     <li>
-                      Shipping <span>Rs4550.00</span>
+                      Shipping <span>Rs0.00</span>
                     </li>
                     <li>
                       Total{" "}
@@ -324,7 +324,7 @@ function CheckoutArea() {
                               parseInt(curItem.price) *
                                 parseInt(curItem.quantity || 0)
                             );
-                          }, 0) + 30}
+                          }, 0) + 00}
                       </span>
                     </li>
                     <li>
@@ -338,7 +338,7 @@ function CheckoutArea() {
                               parseInt(curItem.price) *
                                 parseInt(curItem.quantity || 0)
                             );
-                          }, 0) + 30}
+                          }, 0) + 00}
                       </span>
                     </li>
                   </ul>
