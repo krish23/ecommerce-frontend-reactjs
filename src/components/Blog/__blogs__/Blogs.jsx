@@ -151,7 +151,7 @@ function Blogs() {
           <span>eCommerce</span>
           <h3>
             <a href="/blog-details">
-              Latest Ecommerce Trend: The Rise of Shoppable Posts
+              App
             </a>
           </h3>
           <div className="post-meta">
